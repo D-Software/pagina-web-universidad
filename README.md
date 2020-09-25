@@ -1,2 +1,17 @@
 # pagina-web-universidad
-Pagina web con el fin de dar mayor interés de la comunidad a participar en las actividades de la Universidad
+
+1. Descripcion
+
+2. Instalación
+    - Versión
+    - Requisitos
+
+3. Desarrolladores
+
+4. Uso
+
+5. Documentación
+
+6. Roadmap
+
+7. Licencia
